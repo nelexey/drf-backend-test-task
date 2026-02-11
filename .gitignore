@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+*.log
+.DS_Store
+node_modules/
+dist/
+.vite/
+*.local
+.windsurf/
